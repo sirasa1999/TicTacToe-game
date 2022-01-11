@@ -1,6 +1,6 @@
 # TicTacToe-game
 
-Create a 2-player tictactoe game with python. The game should be command-line based, ani user sanga coordinates magnu paryo. Then the game should check for wins from rows, columns and diagonals.
+2-player tictactoe game with python. The game should be command-line based, and ask user input in the form of co-ordinates. Then the game should check for wins from rows, columns and diagonals.
 
 Example:
 (GAME START)
@@ -14,4 +14,4 @@ Enter x, y coordinates for player 1(O): 2, 1 [example of user input]
 ...
 (and so on and on till one user wins)
 
-Then the game stops and the winning user's symbol (O / x) is displayed
+Then the game stops and the winning user and its symbol (O / x) is displayed
